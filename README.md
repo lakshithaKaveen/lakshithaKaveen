@@ -31,6 +31,8 @@ Connect with me:
 <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> 
 <!---CSS--> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+<!---Tailwind CSS-->
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 <!---Bootstrap-->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
 <!---C-->  
@@ -47,5 +49,8 @@ Connect with me:
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
 
 
-
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshithaKaveen" alt="lakshithaKaveen" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshithaKaveen&show_icons=true&locale=en" alt="lakshithaKaveen" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshithaKaveen&" alt="lakshithaKaveen" /></p>
