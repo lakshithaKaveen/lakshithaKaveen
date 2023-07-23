@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center"> Hi there 👋 I'm Lakshitha Edirisinghe </h1>
+<h3>I'm a <b>Computer Engineering</b> 2nd year student from University of Peradeniya, Sri Lanka</h3>
 
-<!--
-**lakshithaKaveen/lakshithaKaveen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Spring Boot
+- 🤔 I’m looking for help with Artificial Intelligence, Machine Learning
+- 📫 How to reach me: e19095@eng.pdn.ac.lk
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with me:
+<p>
+<a href="https://www.linkedin.com/in/lakshitha-edirisinghe-128633244/">
+  <img src="https://github.com/lakshithaKaveen/lakshithaKaveen/assets/115539769/9c79df36-a594-4a70-81f1-143f895dd826" width="40" height="40" alt="Lakshitha Edirisinghe"/>
+</a>
+</p>
