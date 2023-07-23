@@ -9,6 +9,6 @@
 Connect with me:
 <p>
 <a href="https://www.linkedin.com/in/lakshitha-edirisinghe-128633244/">
-  <img src="https://github.com/lakshithaKaveen/lakshithaKaveen/assets/115539769/9c79df36-a594-4a70-81f1-143f895dd826" width="40" height="40" alt="Lakshitha Edirisinghe"/>
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lakshitha Edirisinghe" height="30" width="40" />
 </a>
 </p>
