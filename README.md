@@ -6,8 +6,6 @@
 - 🤔 I’m looking for help with Artificial Intelligence, Machine Learning
 - 📫 How to reach me: e19095@eng.pdn.ac.lk
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshithaKaveen&label=Profile%20views&color=0e75b6&style=flat" alt="lakshithaKaveen" /> </p>
-
 Connect with me:
 <p>
 <a href="https://www.linkedin.com/in/lakshitha-edirisinghe-128633244/">
