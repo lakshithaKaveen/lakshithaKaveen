@@ -1,14 +1,13 @@
 <h1 align="center"> Hi there 👋 I'm Lakshitha Edirisinghe </h1>
-<h3>I'm a <b>Computer Engineering</b> 2nd year undergraduate from University of Peradeniya, Sri Lanka</h3>
+<h3>I'm a <b>Computer Engineering</b> 3rd year undergraduate from University of Peradeniya, Sri Lanka</h3>
 
 
-- 🌱 I’m currently learning Spring Boot
-- 🤔 I’m looking for help with Artificial Intelligence, Machine Learning
+- 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me: e19095@eng.pdn.ac.lk
 
 Connect with me:
 <p>
-<a href="https://www.linkedin.com/in/lakshitha-edirisinghe-128633244/">
+<a href="https://www.linkedin.com/in/lakshithaedirisinghe/">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" />
 </a>
 <a href="https://www.hackerrank.com/e19095?hr_r=1">
