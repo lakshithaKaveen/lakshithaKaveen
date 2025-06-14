@@ -1,9 +1,5 @@
 <h1 align="center"> Hi there 👋 I'm Lakshitha Edirisinghe </h1>
-<h3>I'm a <b>Computer Engineering</b> 3rd year undergraduate from University of Peradeniya, Sri Lanka</h3>
-
-
-- 🌱 I’m currently learning Machine Learning
-- 📫 How to reach me: e19095@eng.pdn.ac.lk
+<h3>I'm a <b>Computer Engineering</b> 4th year undergraduate from University of Peradeniya, Sri Lanka</h3>
 
 Connect with me:
 <p>
